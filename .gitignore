@@ -1,0 +1,29 @@
+# Maven/Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Environment files (examples stay tracked)
+.env
+.env.*
+!.env.example
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
